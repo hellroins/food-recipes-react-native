@@ -4,6 +4,6 @@
 Scan QR Code diatas atau klik [SNACK.IO](https://snack.expo.io/@hilmysekali/food-recipes)
 
 Kelompok
-- 2015150111 (Zulhilmi Dharma Nugraha)
-- 2015150072 (Adji Septiawan)
-- 2015150068 (Very Afirman)
+- [x] 2015150111 (Zulhilmi Dharma Nugraha)
+- [x] 2015150072 (Adji Septiawan)
+- [x] 2015150068 (Very Afirman)
